@@ -1,0 +1,13 @@
+1. Similar: Communication, Smaller = better
+Different: Both have different priorities like testing and reviewing
+-Efficiency, maintainabilty, security, performance.
+
+2. Reviewing code at 400 lines at a time for maximum brain efficiency,
+https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/,
+this review was beneficial because it taught me more practices for better code review that I will implement in the future.
+
+3. Adding unnecesary comments or passing off your opinions as facts,
+https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c,
+This review was not beneficial because by adding so many comments, youre missing the full picture and are 
+not properly moving forward. Some feedback is to do one thing at a time so you don't just keep doing the 
+same task over and over.
